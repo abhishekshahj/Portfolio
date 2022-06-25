@@ -1,14 +1,10 @@
 export const socialsData = {
-    github: 'https://github.com/',
-    facebook: 'https://www.facebook.com/',
-    linkedIn: 'https://www.linkedin.com/in',
-    instagram: 'https://www.instagram.com/',
-    codepen: 'https://codepen.io/',
-    twitter: 'https://twitter.com/',
-    reddit: 'https://www.reddit.com/user/',
-    blogger: 'https://www.blogger.com/',
+    github: 'https://github.com/abhishekshahj/',
+    facebook: 'https://www.facebook.com/abhishekshahj',
+    linkedIn: 'https://www.linkedin.com/in/abhishekshahj',
+    instagram: 'https://www.instagram.com/a_b_h_i_s_h_a_h',
+    codepen: 'https://codepen.io/abhishekshahj',
+    twitter: 'https://twitter.com/abhishekshahj',
     medium: 'https://medium.com/@',
-    stackOverflow: 'https://stackoverflow.com/users/',
-    gitlab: 'https://gitlab.com/',
-    youtube: 'https://youtube.com/'
+    stackOverflow: 'https://stackoverflow.com/users/3407552/abhishek-shah'
 }
