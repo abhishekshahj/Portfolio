@@ -1,23 +1,30 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Globex Corporation',
-        jobtitle: 'Frontend Developer',
-        startYear: '2018',
-        endYear: '2019'
+        company: 'Zuru Tech India Pvt Ltd',
+        jobtitle: 'Intern Developer',
+        startYear: 'Jan 2018',
+        endYear: 'April 2018'
     },
     {
         id: 2,
-        company: 'Vehement Capital Partners',
-        jobtitle: 'Backend Developer',
-        startYear: '2019',
-        endYear: '2020'
+        company: 'Campusknot Inc',
+        jobtitle: 'Web Developer',
+        startYear: 'April 2018',
+        endYear: 'June 2019'
     },
     {
         id: 3,
-        company: 'Wonka Industries',
-        jobtitle: 'Marketing',
-        startYear: '2020',
+        company: 'Investis Digital',
+        jobtitle: 'Web Producer',
+        startYear: 'June 2019',
+        endYear: 'April 2022'
+    },
+    {
+        id: 4,
+        company: 'Darshan Softech Pvt Ltd',
+        jobtitle: 'UI Developer',
+        startYear: 'May 2022',
         endYear: 'Present'
     },
 ]

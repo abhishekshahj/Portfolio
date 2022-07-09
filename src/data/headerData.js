@@ -1,4 +1,4 @@
-import resume from '../assets/pdf/resume.pdf'
+import resume from '../assets/pdf/Resume - Abhishek Shah.pdf'
 import HeaderProfile from '../assets/images/abhishek-shah-profile.jfif'
 
 export const headerData = {
